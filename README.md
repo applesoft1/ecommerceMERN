@@ -28,8 +28,8 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-react-ecommerce.git
-$ cd node-react-ecommerce
+$ git clone git@github.com:maxwell2310/ecommerceMERN.git
+$ cd ecommerceMERN
 ```
 
 ### 2. Install MongoDB
@@ -66,11 +66,6 @@ $ npm start
 
 - Run http://localhost:3000/products
 - Click create product and enter product info
-
-## Support
-
-- Q/A: https://webacademy.pro/oldamazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
 
 ## Video Tutorials
 
@@ -149,40 +144,6 @@ Admin should be able to define products and update the count in stock whenever t
 
 In this part, we implement the checkout wizard including sign in, shipping info, payment method, and place order.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/l8w3g9mc3ccijt70wpf3.png)
-
-## Only On Udemy
-
-Following parts are on my udemy course. [Get it by 90% discount](https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/?couponCode=BASIR1)
-
-### Part 18- Order Details Screen
-
-It shows all details about an order includeing shipping, payments and order items. Also it is possible for admin to manage orders like set them as delivered.
-
-### Part 19- Connect to PayPal
-
-This parts create PaypalButton component to show paypal payment button on the screen.
-when users click on it, they will be redirected to paypal website to make the payment.
-after payment users will be redirected to details page of the order.
-
-### Part 20- Manage Order Screen
-
-This is an admin page to manage list of orders. Admin can delete an order or set it as delivered.
-
-### Part 21- User Profile Screen
-
-When user click on thier name on the header menu, this page appears. It consists of two sections. First an profile update form and second order history.
-
-### Part 22- Filter and Sort Products
-
-In the home page, right after header, there is a filter bar to filter products based on their name and description. also it is possible to sort product based on prices and arrivals.
-
-### Part 23- Deploy Website on Heroku
-
-This section explains all steps to publish the ecommerce website on heroku. first you need to create a cloud mongodb and the make an account on heroku.
-
-### Part 24- Rate and Review Products
-
-This part shows list of reviews by users for each products. also it provides a form to enter rating and review for every single product. also it update the avg rating of each product by user ratings.
 
 1. index.html
 2. link fontawesome
